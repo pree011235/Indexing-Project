@@ -1,0 +1,7 @@
+Turnkey solutions decrease IT cost
+
+Converged solutions tightly integrate compute (servers) and storage resources into a single platform. Because converged systems can be built entirely with off-the-shelf, reliable hardware components, they are cost-effective.
+
+Partnering with a single vendor for a converged design frees you from needing multiple experts for configuration, management, and maintenance tasks. Minimizing that overhead lowers operational costs. Purchasing fewer systems decreases your datacenter footprint, which reduces power usage and cooling expenses.
+
+These simplified architectures reduce costs across the board and accelerate the time-to-value for all virtualized applications. And, turnkey solutions enable datacenter build-outs that are dramatically faster than what’s possible with legacy architectures.

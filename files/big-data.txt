@@ -1,0 +1,32 @@
+Big Data
+
+Finding the right platform for Hadoop
+
+The amount of data generated in businesses is growing exponentially. From business transactions and customer interactions to web-log tracking, data accumulates at an unrelenting pace. Turning that data into information and actionable insights is a challenge for traditional databases, which are generally hard to scale up to tera- or petabyte levels.
+
+Hadoop addresses this “big data” challenge by delivering open-source software for reliable, scalable, distributed computing, and data processing. It provides a powerful software library that uses a simple programming model to enable distributed processing of large data sets across clusters of nodes. It scales up from a single node to thousands of nodes, each offering local computation and storage. 
+
+The first question that most IT teams face when they implement Hadoop is whether to run the system on bare metal, or to virtualize the environment. The state-of-the-art converged architectures that are now available make a compelling argument for the benefits of virtualizing Hadoop installations.
+
+The case for virtualizing Hadoop
+
+Superior hardware utilization: Bare-metal Hadoop deployments average only 10 to 20 percent CPU utilization, which wastes hardware resources and datacenter space. Virtualizing Hadoop uses the hardware far more effectively and provides more flexibility.
+Dynamic addition and removal of Hadoop nodes: Changes based on load allow you to scale according to your current needs, without having to anticipate future demands.
+Sandbox workloads: Hadoop installations can co-exist with enterprise applications in the same environment.
+Batch scheduling and stacked workloads: Hadoop jobs can run during off-peak hours, taking advantage of idle night and weekend hours. Or, VMware’s resource-pooling capabilities can run workloads concurrently.
+Nutanix benefits
+
+Reduced footprint: Nutanix uses a hyper-scale server architecture that reduces Hadoop hardware footprints by up to 4x.
+Fast performance: You can process up to 2,000 MB/s of sequential throughput in a compact 2U appliance. (A TeraSort benchmark yields 250 MB/s in the same 2U form factor.) ILM ensures that data is localized for the lowest possible latency. Heat-optimized tiering (HOT) archives inactive or older data that is not heavily used and automatically moves it back up the tiers when the system detects more call for it.
+No single point of failure; high availability: NameNode in the Hadoop Distributed FileSystem is a single point of failure. Nutanix removes this failure potential with built-in high availability and replication features to secure all pieces of Hadoop data.
+Advanced change management: Nutanix maintains environmental control and separation between development, test, staging, and production environments.
+Capacity optimization: Nutanix snapshots and QuickClones help share production data with non-production jobs, without requiring full copies and unnecessary data duplication.
+Time-sliced clusters: Nutanix allows you to run your server and desktop virtualization service adjacent with Hadoop on a single converged cloud.
+Unified data platform: You can run multiple data-processing platforms simultaneously with Hadoop.
+ 
+
+Download the Hadoop reference architecture PDF. 
+
+Download the Hadoop solution brief.
+
+Download the Splunk reference architecture PDF.

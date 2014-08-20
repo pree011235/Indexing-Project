@@ -1,0 +1,35 @@
+NX-6000 Series | NX-6020 | NX-6050 / NX-6070
+
+Virtual Computing Platform Specifications – Per Node
+
+Platform	NX-6020 (2 per Appliance) icon_tech-specs_4nodes	NX-6050 (2 per Appliance) icon_tech-specs_4nodes	NX-6070 (2 per Appliance) icon_tech-specs_4nodes
+Server Compute	Dual Intel Ivy Bridge E5-2630v2,
+12 cores / 2.6 GHz	Dual Intel Sandy Bridge E5-2670,
+16 cores / 2.6 GHz	Dual Intel Sandy Bridge E5-2690,
+16 cores / 2.9 GHz
+Storage Capacity	1x 800 GB SSD, 5x 4 TB HDDs	2x 400 GB SSD, 4x 4 TB HDDs	2x 800 GB SSD, 4x 4 TB HDDs
+Memory	Configurable; 32 GB, 64 GB,
+128 GB or 256 GB	Configurable; 128 GB or 256 GB
+VM Density	Up to 75 Virtual Machines*	Up to 100 Virtual Machines*	Up to 110 Virtual Machines*
+Network Connections	2x 10 GbE, 2x 1 GbE, 1x 10/100 BASE-T RJ45
+Certifications	UL, CSA, CE, VCCI, KCC, C-Tick, EAC
+* VM desity dependent on use case
+
+Block Specifications
+
+Block Dimensions	Height: 3.5″ (88mm), Width: 17.25″ (438mm), Depth: 29.6″ (752mm)
+Block Weight	64.8 lbs. (29.4kg) stand-alone / 75.8 lbs. ( 34.4kg) package / 7.7 lbs (3.5kg) node
+System Cooling	4x80mm heavy duty fans with PWM fan speed controls
+Operating Environment	Op Temp Rng: 50&edeg;-95°F (10°-35°C), Non-Op Temp Rng: -40°-158°F (-40°- 70°C)
+Op Humidity Rng (non-condensing): 8-90%, Non-Op Humidity Rng: 5-95%
+Power Consumption	700W maximum,
+550W typical	900W maximum,
+700W typical	1100W maximum,
+900W typical
+Power Supply (Dual supply/block)	1.62kW Out @180-240V, 10.5-8.0A, 50-60Hz
+Thermal Dissipation	2400 BTU/hr maximum
+1700 BTU/hr typical	3070 BTU/hr maximum
+2400 BTU/hr typical	3750 BTU/hr maximum
+3070 BTU/hr typical
+Operating Requirements	Input Voltage: 180-240V AC auto-range, Input Frequency: 50-60Hz
+Compare specs from every model: download our Spec Sheet (PDF).

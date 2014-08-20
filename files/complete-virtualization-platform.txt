@@ -1,0 +1,7 @@
+Complete virtualization platform
+
+The Nutanix architecture is hypervisor-agnostic, and works with multiple virtualization technologies. All VM-level capabilities are delivered independently, including high availability (HA), disaster recovery (DR), and more.
+
+Virtualization teams are now flexible enough to host any VM using their hypervisor of choice. They are not locked into one virtualization vendor. A single Nutanix cluster can support different hypervisors simultaneously, with a nearly unlimited ability to support mixed workload environments. This allows the Nutanix-enabled datacenter to serve multiple IT needs across different business units at the same time.
+
+Virtualization teams can continue to use existing management and reporting tools so there is no disruption to ongoing operations. The management of all shared storage is completely abstracted from the virtualization stack: Each guest VM operates as if it is working directly with a traditional datastore.

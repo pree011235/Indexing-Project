@@ -1,0 +1,13 @@
+High performance server compute
+
+The Nutanix platform includes up to four individual server nodes housed in a space-efficient, 2U rack-mountable appliance. Each server node is equipped with best-in-class Intel processors and high-speed memory for the most demanding workloads.
+
+You can add additional Nutanix appliances to an existing cluster to scale performance and capacity. Or, small clusters can be combined with larger clusters to streamline administration.
+
+Virtualization hypervisors are pre-installed, ready for the rapid deployment of virtual machines (VMs). Each node can support just one or up to 100 virtual desktops.
+
+To optimize performance further, the Nutanix solution manages storage resources in tiers. The data requested most frequently, the “hot” data, moves to the highest-performance tier, which uses the PCIe SSD. Unlike competing solutions, this PCIe-based flash tier serves as a true persistent tier, not simply a cache.
+
+Heat-optimized tiering (HOT) ensures the highest performance for both write and read operations. When a piece of data is accessed less frequently, the Nutanix software moves the data to a lower-cost, higher-capacity storage medium such as SATA-HDDs.
+
+Learn more: read the Nutanix performance tech note.

@@ -1,0 +1,15 @@
+Datacenter Innovators
+
+When Google, Facebook, Amazon and other leading cloud providers set out to design a next-generation datacenter, they threw away the playbook. They understood that if they relied upon traditional hardware-centric architectures, which demanded ever more powerful servers, networks and storage arrays, they would fail. Instead, these technological pioneers re-invented how scalable datacenters were built and managed.
+
+They embraced a highly distributed software model that was implemented on clusters of commodity hardware. They also took the bold step of converging compute and storage resources into a single tier, thus removing the complexity of a storage network. By integrating datacenter intelligence into software instead of hardware, and eliminating costly network infrastructure, Google and others have been able to realize both massive scale and rapid feature velocity. At the same time, they have achieved unheard of economics by eliminating the need to upgrade hardware simply to achieve greater performance or scale, while still increasing overall reliability.
+
+Nutanix has incorporated these same design principles into its Virtual Computing Platform. For the first time, Google-like scale and performance is available to mainstream enterprises.
+
+What the experts are saying
+
+Scaling the virtual environment is critical to realizing the ROI potential of server and desktop virtualization projects. The moment more server hosts have to be added because virtual machine (VM) density has reached its limit the ROI for the project stops. One of the biggest limitations to VM density are storage performance and the complexity of SAN designs caused by the virtual environment.
+—George Crump, “Building The SAN-Less Data Center,” Storage Switzerland
+
+As business requirements have mounted, generations of technology have been implemented to try and stem the tide. The result: data centers characterized by complex, static physical configurations, incomplete virtualization efforts, and multiple silos of management. But the emergence of better virtualization management tools, software-defined networks, and converged infrastructure stacks has opened the potential to what Forrester calls the software-defined data center (SDDC) — a comprehensive abstraction of a complete data center. 
+—Rich Fichera, The Software-Defined Data Center Is The Future Of Infrastructure Architecture

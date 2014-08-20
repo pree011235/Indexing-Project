@@ -1,0 +1,23 @@
+The Nutanix Solution
+
+The Nutanix Virtual Computing Platform is a converged infrastructure solution that consolidates the compute (server) tier and the storage tier into a single, integrated appliance.
+
+Nutanix uses the same design principles and technologies that power IT innovators such as Google, Facebook, and Amazon. It tailors these for mainstream enterprises and government agencies.
+
+The Nutanix solution is radically simple compared to traditional datacenter infrastructures.
+
+Rapid time to value: deployment in under 30 minutes
+No disruption to ongoing operations
+Easily scales
+Powerful off-the-shelf, non-proprietary hardware 
+Reduces the cost and complexity of storage
+Works with legacy components, protecting investments you’ve already made
+Delivers advanced, enterprise-class storage capabilities
+The modular building-block design allows your organization to start with small deployments and grow incrementally into very large cluster installations. With one appliance, you can move from a small operation to handling large-scale virtual desktop initiatives, test and development applications, big data (Hadoop) projects, and much more.
+
+My job before Nutanix was a lot harder. Now that we have implemented Nutanix, there is a lot less stress on my shoulders. It is much more carefree. Nutanix is great!
+- Paul Carter, Virtualization Architect, US Army
+
+ 
+	How Nutanix Works
+The Nutanix Virtual Computing Platform integrates high-performance server resources with enterprise-class storage in a cost-effective 2U appliance. It eliminates the need for network-based storage architecture, such as a storage area network (SAN) or network-attached storage (NAS). The scalability and performance that the world’s largest, most efficient datacenters enjoy are now available to all enterprises and government agencies.

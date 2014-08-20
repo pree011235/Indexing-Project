@@ -1,0 +1,29 @@
+Traditional datacenter architectures employ discrete tiers of compute (servers) and storage, which are connected by a dedicated network. Typically, the network is a storage area network (SAN) or a network attached storage (NAS) system.
+
+A SAN/NAS-based architecture physically separates the compute tier from the storage tier to centralize storage resources for datacenter services. It improves on the inefficiencies and rigidity of directly attached server (DAS) storage, which does not share data among multiple servers.
+
+While SAN and NAS-based architectures have been the mainstay of many enterprise datacenters, they are straining under the demands of a modern virtualized environment. They simply were not designed to handle the explosion of VMs and the resulting I/O needs of today’s enterprise.
+
+Provisioning new VMs using SAN-based storage is often a complex and laborious process, involving manual configuration of a centralized storage array to accommodate the new workloads. And, dependency on an intermediate network to move data continuously between compute and server tiers adds unnecessary latency, degrading performance.
+
+While SANs have served admirably, they are quickly becoming a handicap for the next generation of datacenters. SANs have:
+
+Poor scalability for virtualized workloads.
+Lack of IT agility. VM provisioning is tightly coupled with inflexible back-end storage systems.
+Network performance bottlenecks under the explosion of I/O requirements in VMs.
+Prohibitive capital expenditures on oversized storage arrays.
+Unsustainable operational costs to support SAN fabrics built from multiple vendors.
+A radical change is in order.
+
+IT organizations are moving toward data center convergence, forcing storage architects to
+re-evaluate SAN protocol selections, storage processes, and best practices.
+- Gartner, November 1, 2012
+
+Source: 2013 Planning Guide: Data Center, Infrastructure, 
+Operations, Private Cloud and Desktop Transformation
+
+
+
+Fortunately, leading datacenter architects have designed a better approach. Google, Amazon, Facebook, and Microsoft have embraced converged architectures that collapse disparate compute and storage tiers into unified systems. These completely eliminate the need for network-based storage systems like the SAN. 
+
+The infrastructure convergence pioneered by these trailblazing companies preserves the benefits of shared storage and reduces the cost and complexity of the storage network. It greatly increases overall datacenter performance, scalability, and efficiency.

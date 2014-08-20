@@ -1,0 +1,18 @@
+Enterprise Branch Office
+
+Simple and affordable virtualization for the mid-market
+
+Enterprise branch offices, as well as small to mid-sized corporations typically lack the specialized IT resources needed to manage traditional datacenter platforms built with separate servers, storage arrays and networking. In addition, CAPEX and OPEX budgets are constrained while space and power footprints are often limited.
+
+Nutanix offers a simple to manage, turnkey solution bringing converged infrastructure within reach for these environments. The Nutanix platform features a flatter datacenter architecture that eliminates the need for centralized SAN/NAS storage, thereby dramatically reducing cost and IT complexity while simplifying management. Every Virtual Computing Platform by Nutanix comes fully configured to start provisioning VMs right out of the box and is deployable in less than 30 minutes. In addition, Nutanix delivers up to 80 percent space and power savings compared to alternative 
+approaches.
+
+The Nutanix solution offers a rich enterprise feature set.  Software-based storage controller technology coupled with advanced information lifecycle management (ILM) capabilities such as flash-enabled data tiering and performance-optimized data compression provides a single platform that is ideal for powering any branch office services, including local applications, virtual desktop deployments, file and print services, DHCP and DNS services, WAN optimization controllers and security-focused virtual appliances.
+
+Nutanix Benefits
+
+Turnkey solution: Compute and storage natively converged in a single 2U appliance with pre-installed software runs any virtual workloads common in mid-sized corporations, enterprise branch offices and retail stores 
+Simple management: Single pane of glass management interface streamlines management and IT resource requirements 
+Business continuity: Pre-installed replication and back-up software automatically protects VM-specific data
+Reduced infrastructure needs: Flexibility to use typical branch office power and networking infrastructure (110 volt and1 Ethernet) to reduce deployment costs
+Affordable: Nutanix offers specific platforms providing the appropriate compute and storage resources for an affordable entry point

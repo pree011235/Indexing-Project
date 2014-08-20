@@ -1,0 +1,9 @@
+Simplified no-SAN architecture
+
+Traditional architectures use complex networks (SANs or NAS) to transfer data between centralized storage arrays and server resources. The constant movement of data over a network leads to significant inefficiencies and performance degradation.
+
+The complexity of maintaining dedicated storage networks further increases datacenter costs, and inhibits agility and elasticity of the infrastructure. LUN based architectures require protection against disk resource contention and data corruption with functionality such as zoning and LUN masking.
+
+Converging compute (server) and storage onto a single platform keeps data local to the virtual machines, where it is needed. This system eliminates expensive and complex SANs, with no loss of critical data-management and data-optimization capabilities.
+
+Virtualization teams and application owners can rapidly provision new virtual workloads, without having to worry about the constraints of a separate storage tier. The result is faster time-to-value for new workloads and far lower operating costs.
